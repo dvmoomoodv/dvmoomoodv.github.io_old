@@ -10,5 +10,14 @@ $ gem install jekyll bundler
 # execute jekyll
 ~/my-awesome-site $ bundle exec jekyll serve
 
-# browser 
+# browser
 # => Now browse to http://localhost:4000
+
+
+** 해당 페이지 꾸미기
+https://github.com/dvmoomoodv/jekyll-simple
+이 페이지를 통해서 기본적인 구성은 맞춘뒤 하나둘씩 작업을시작하자.
+글은 주기적으로 gitbook과 같이 병행하면서 작업시작
+
+
+google analytics 연결하기 
