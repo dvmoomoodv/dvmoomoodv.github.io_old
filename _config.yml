@@ -1,32 +1,43 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+title: Moomoo Studio Blog
+description: A blog about moomoo
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://dvmoomoodv.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# 환경설정 정보를 보관한다. 명령어를 실행할 때 여러가지 옵션들을 추가할 수도 있지만, 그렇게 따로 외우는 것보다 이 파일에 정의해두는게 더 편리하다.
-
-title: dvmoomoodv blog
+# User settings
+username: dvmoomoodv
+user_description: Creater(Moomoo Studio)
+user_title: dvmoomoodv
 email: dvmoomoodv@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dvmoomoodv.github.io" # the base hostname & protocol for your site
 twitter_username: dvmoomoodv
 github_username:  dvmoomoodv
+disqus_username: dvmoomoodv
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
 theme: minima
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

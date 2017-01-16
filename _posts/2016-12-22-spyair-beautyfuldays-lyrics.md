@@ -1,15 +1,23 @@
 ---
 layout: post
-title: spyair beautyfuldays lyrics
+title: "spyair beautyfuldays lyrics"
+date: 2016-10-06 11:19:02 +0900
+description: "Anime Lyrics"
+main-class: 'dev'
+color: '#637a91'
+tags:
+- "dicarapida"
+twitter_text: "Favicons, touch icons e tile icons..."
+introduction: "Qual a importância dos favicons, touch icons e tile icons. Como criá-los automáticamente e como usá-los em seu site."
 ---
 Romaji Lyrics
 
 Purasu ni motto kaete ikeru souyatte shinjite ikou
 Dare ka ga kimi o waratte mo ore wa wara~ttari shinai yo
-Aratana suta-to don'na kimi mo kagayaite ikeru sa 
+Aratana suta-to don'na kimi mo kagayaite ikeru sa
 Fuan& kitai de Oh Try yourself
 
-Muchuu ni na~tteta jikan ga tatsu no mo wasurete 
+Muchuu ni na~tteta jikan ga tatsu no mo wasurete
 bokura wa kon'na tokoro made kita ndane
 Fui ni miageta orenji-iro no sora wa yume egaita ano basho ni nite iru ne
 Shinpai bakari ga nimotsu ni natte iku hibi kurayami no ton'neru wa tsuzuite ita
@@ -23,11 +31,11 @@ Fuan& kitai de Oh Try yourself
 
 Muchuu ni nareru mono o sagashite ita bokura wa te atari shidai hashitta
 Sugisatte iku hito dare mo inaku natta koro furikaeru yoyuu mo nai kurai ni
-Shinpai shite mo shinakute mo ashita wa kurukedo 
+Shinpai shite mo shinakute mo ashita wa kurukedo
 kurayami no ton'neru wa tsuzuite ita
 
 Purasu ni motto kaete ikeru souyatte shinjite ikou
-Find More lyrics at www.sweetslyrics.com 
+Find More lyrics at www.sweetslyrics.com
 Dare ka ga kimi o waratte mo ore wa wara~ttari shinai yo
 Don'nani tooku omoete mo jibun de eranda michi o sonomama ikeba ii
 Dakara" jibun ni nani mo nai" nante kakaekomu yori mo
@@ -46,7 +54,7 @@ Dare ka ga kimi o waratte mo ore wa wara~ttari shinai yo
 Don'nani tooku omoete mo jibun de eranda michi o sonomama ikeba ii
 Dakara" nani ga tadashii ka" tte mata nayande shimau yori mo
 " Nani o shitakatta? " Tte hora yasashiku jibun ni kiite yo
-Aratana suta-to don'na kimi mo kagayaite mieru sa 
+Aratana suta-to don'na kimi mo kagayaite mieru sa
 Fuan& kitai de Oh Try yourself
 
 English Translations
@@ -68,7 +76,7 @@ I won't laugh at you even if others are laughing
 We chose our roads by ourselves, no matter how far it feels
 It alright to live like that
 
-Therefore, when in fear I'll say 'I can't see the future' or 
+Therefore, when in fear I'll say 'I can't see the future' or
 when I get excited sometimes and say 'What are we waiting for'
 Shining at a fresh start, no matter what kind of person you are
 With fears and hopes, Oh Try Yourself
@@ -92,7 +100,7 @@ At a fresh start, no matter what kind of tomorrow will come, it's an important o
 With fears and hopes, Oh Try Yourself
 
 The world couldn't see the childish us now
-But when the vanity is slowly disappearing 
+But when the vanity is slowly disappearing
 It will welcome us
 
 These are the days when we worry about the absence of the fog of the sun, but
@@ -144,13 +152,13 @@ Kanji
 プラスにもっと変えていける　そうやって信じていこう
 誰かが君を笑っても　俺は笑ったりしないよ
 どんなに遠く思えても　自分で選んだ道を
-そのままいけばいい 
+そのままいけばいい
 だから、「自分に何もない」なんて　抱え込むよりも
 「何ができるんだろう」って　俺とワクワクしようよ
 新たなスタート　どんな明日も大事な一歩さ
 不安＆期待で　Oh Try yourself
 
-子供の自分に　見えなかった世界が今 
+子供の自分に　見えなかった世界が今
 少しずつ見え出して　僕らを迎える
 
 心配なんてすりゃ　キリがない日々だけど
@@ -162,6 +170,6 @@ Kanji
 そのままいけばいい
 だから、「何が正しいか」って　また悩んでしまうよりも
 「何をしたかった？」って　ほら　優しく自分にきいてよ
-新たなスタート　どんな君も輝いてみえるさ 
+新たなスタート　どんな君も輝いてみえるさ
 
 不安＆期待で　Oh Try yourself
